@@ -16,5 +16,8 @@ public class PlayButtonScript : MonoBehaviour
         if (mode == 1) {
             SceneManager.LoadScene("FivePin");
         }
+        if (mode == 2) {
+            SceneManager.LoadScene("NinePin");
+        }
     }
 }

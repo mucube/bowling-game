@@ -5,5 +5,9 @@ using UnityEngine;
 
 public class InitialSetup : MonoBehaviour
 {
-    public static int knockedOver = 0;
+    public static int knockedOver;
+
+    void Start() {
+        knockedOver = 0;
+    }
 }

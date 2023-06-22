@@ -219,6 +219,8 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: 5 Pin
       m_Image: {fileID: 0}
+    - m_Text: 9 Pin
+      m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []

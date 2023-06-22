@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FivePin.unity
     guid: f304fea5639d54143aa81c716c126dac
+  - enabled: 1
+    path: Assets/Scenes/NinePin.unity
+    guid: eb228e77a17425443b6f7c4d01f1b4a5
   m_configObjects: {}
